@@ -18,55 +18,55 @@
 ## 4. Exploratory Data Analysis (EDA)  
 
 ### **Descriptive Statistics**  
-- [ ] Compute summary statistics for **numerical** columns.  
-- [ ] Compute summary statistics for **categorical** columns.  
+- [X] Compute summary statistics for **numerical** columns.  
+- [X] Compute summary statistics for **categorical** columns.  
 
 ### **Data Visualization**  
-- [ ] Create **histograms/density plots** to analyze numerical feature distributions.  
-- [ ] Create **bar plots** to visualize categorical feature frequencies.  
-- [ ] Use **box plots** to detect outliers and analyze data spread.  
-- [ ] Generate **scatter plots** to examine relationships between numerical features.  
-- [ ] Use **heatmaps** to visualize correlations between numerical features.  
+- [X] Create **histograms/density plots** to analyze numerical feature distributions.  
+- [X] Create **bar plots** to visualize categorical feature frequencies.  
+- [X] Use **box plots** to detect outliers and analyze data spread.  
+- [X] Generate **scatter plots** to examine relationships between numerical features.  
+- [X] Use **heatmaps** to visualize correlations between numerical features.  
 
 ### **Group Analysis**  
-- [ ] Perform **group-by operations** to aggregate data based on categorical features.  
+- [X] Perform **group-by operations** to aggregate data based on categorical features.  
 
 ### **Feature Analysis**  
-- [ ] Identify and analyze **key features** for dataset understanding.  
-- [ ] Explore relationships using:
-  - [ ] **Pair plots**  
-  - [ ] **Correlation matrices**  
-  - [ ] **Pivot tables**  
-- [ ] Perform **time series analysis** (if applicable).  
+- [X] Identify and analyze **key features** for dataset understanding.  
+- [X] Explore relationships using:
+  - [X] **Pair plots**  
+  - [X] **Correlation matrices**  
+  - [X] **Pivot tables**  
+- [X] Perform **time series analysis** (if applicable).  
 
 ## 5. Advanced Python Techniques  
 
 ### **Lambda Functions**  
-- [ ] Use **lambda functions** for simple data transformations.  
-- [ ] Example: Create a column that categorizes numerical data into bins.  
+- [X] Use **lambda functions** for simple data transformations.  
+- [X] Example: Create a column that categorizes numerical data into bins.  
 
 ### **User-Defined Functions**  
-- [ ] Write **custom functions** for repetitive tasks or complex calculations.  
-- [ ] Example: Create a function to categorize salaries as "low," "medium," or "high."  
+- [X] Write **custom functions** for repetitive tasks or complex calculations.  
+- [X] Example: Create a function to categorize salaries as "low," "medium," or "high."  
 
 ### **List Comprehensions**  
-- [ ] Use **list comprehensions** for efficient data processing.  
-- [ ] Example: Generate a list of column names with missing values.  
+- [X] Use **list comprehensions** for efficient data processing.  
+- [X] Example: Generate a list of column names with missing values.  
 
 ## 6. Insights and Conclusions  
-- [ ] Summarize **key findings** from the EDA.  
-- [ ] Discuss **patterns, anomalies, or interesting relationships**.  
-- [ ] Highlight **potential areas for further analysis** or research questions.  
+- [X] Summarize **key findings** from the EDA.  
+- [X] Discuss **patterns, anomalies, or interesting relationships**.  
+- [X] Highlight **potential areas for further analysis** or research questions.  
 
 ## 7. Documentation and Presentation  
-- [ ] Ensure the **Jupyter Notebook** is well-documented with markdown explanations.  
-- [ ] Add clear **titles, axis labels, and legends** to visualizations.  
-- [ ] Prepare a **5-10 slide presentation** summarizing:  
-  - [ ] Key findings  
-  - [ ] Interesting visualizations  
-  - [ ] Potential next steps  
-- [ ] Submit:
-  - [ ] **Jupyter Notebook**  
-  - [ ] **Dataset**  
-  - [ ] **README file**  
-  - [ ] **Presentation slides**  
+- [X] Ensure the **Jupyter Notebook** is well-documented with markdown explanations.  
+- [X] Add clear **titles, axis labels, and legends** to visualizations.  
+- [X] Prepare a **5-10 slide presentation** summarizing:  
+  - [X] Key findings  
+  - [X] Interesting visualizations  
+  - [X] Potential next steps  
+- [X] Submit:
+  - [X] **Jupyter Notebook**  
+  - [X] **Dataset**  
+  - [X] **README file**  
+  - [X] **Presentation slides**  
